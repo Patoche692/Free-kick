@@ -1,5 +1,5 @@
 # Free-kick
-3D soccer game of free kick written with Python, Pygame, and PyOpenGl.
+[2020 project] 3D soccer game of free kick written with Python, Pygame, and PyOpenGl.
 
 Handles collisions with the wall, the goal and the back fence.
 
